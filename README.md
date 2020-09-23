@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Star of "Mandalorez" Giancarlo Esposito hinted at the plot of future seasons of the series.
 
-You can use the [editor on GitHub](https://github.com/barimas/tvshows/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In an interview with the magazine People Giancarlo Esposito told what to expect from future seasons of the series "Mandalorec. Performer of the role of Moffa Gideon did not reveal details, but said that viewers will start receiving answers only in the third and fourth seasons.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Branching](Mandalorec1.jpg)
 
-### Markdown
+"The next season of "Mandalorec" will be very interesting, because you will start to learn about the power of a child, what really means a child," says Esposito. - You'll also start to learn about the origin of the dark sword that Moff Gideon has, and how it relates to the past of Star Wars, Clone Wars and other projects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"And you will start to understand the scale of 'Star Wars'," continues the actor. - We live in a huge universe, in which so much has not yet been explored. So, I think the series will begin to lay the foundation for the scale, which will appear in seasons three and four, when you really start to get answers".
 
-```markdown
-Syntax highlighted code block
+![Branching](Mandalorec2.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+The plot of the second season of "Mandalorets" is not disclosed. According to the trailer, the bounty hunter will go to the most dangerous corners of the distant galaxy to find Jedi and learn about the origin of Little Yod. Moff Gideon, a high-ranking imperial officer, will continue to be Mandaloretz's main enemy. The series will return to the screens on October 30.
 
-- Bulleted
-- List
+# "Mandaloretz" took "Emmy" in technical categories. The series was awarded for the effects and work of the operator.
 
-1. Numbered
-2. List
+The main Emmy Award ceremony will take place on September 20, and meanwhile the American Television Academy is giving prizes for technical achievements. This year the leaders are "Mandalorets" and "Guardians". The Disney+ project has already taken five statuettes, and the HBO series - four.
 
-**Bold** and _Italic_ and `Code` text
+![Branching](Mandalorec3.jpg)
 
-[Link](url) and ![Image](src)
-```
+"Mandalorets" was awarded for the work of the artist and sound editing in the first and second episodes. Greg Fraser was awarded a prize for best cameraman work (for the seventh episode), and the episode "The Child" was awarded for best special effects.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"The Guardians won in the following areas: sound mixing (the episode "This amazing creature"), editing (the episode "God walks into a bar"), costumes in fantasy/fantasy (the episode "It's summer and we're running out of ice") and camera work (Gregory Middleton, the episode "This amazing creature").
 
-### Jekyll Themes
+In total, the Guardians have collected 26 Emmy nominations and the Mandalorec 15. Among other things, the first series qualifies for a prize in the category "Best Mini-Series", and the second series can take an award as the best drama series.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/barimas/tvshows/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"Mandalorec" will return to the screens with the second season on October 30.
